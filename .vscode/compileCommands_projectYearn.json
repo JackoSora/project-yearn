@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\salav\\Documents\\Unreal Projects\\project-yearn\\Source\\projectYearn\\projectYearn.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\salav\\Documents\\Unreal Projects\\project-yearn\\.vscode\\compileCommands_projectYearn\\projectYearn.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\salav\\Documents\\Unreal Projects\\project-yearn\\Source\\projectYearn\\projectYearn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\salav\\Documents\\Unreal Projects\\project-yearn\\.vscode\\compileCommands_projectYearn\\projectYearn.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\salav\\Documents\\Unreal Projects\\project-yearn\\Source\\projectYearn\\projectYearn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\salav\\Documents\\Unreal Projects\\project-yearn\\.vscode\\compileCommands_projectYearn\\projectYearn.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
